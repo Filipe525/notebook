@@ -3,7 +3,7 @@
 Welcome to the **Jupyter Notebook** documentation site. **Jupyter Notebook**
 is a simplified notebook authoring application, and is a part of [Project
 Jupyter](https://docs.jupyter.org/en/latest/), a large umbrella project
-centered around the goal of providing tools (and [standards](https://docs.jupyter.org/en/latest/#sub-project-documentation))
+centered around the goal of prov      iding tools (and [standards](https://docs.jupyter.org/en/latest/#sub-project-documentation))
 for interactive computing with [computational notebooks](https://docs.jupyter.org/en/latest/#what-is-a-notebook).
 
 A [computational notebook](https://docs.jupyter.org/en/latest/#what-is-a-notebook)
@@ -23,6 +23,7 @@ Read more about how to use **Jupyter Notebook** on this site, in the [User
 Documentation](notebook.md).
 
 ```{image} ./_static/images/notebook-running-code.png
+
 
 ```
 
